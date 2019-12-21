@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@font-face  {
+	font-family : 'nbg';
+	font-style : normal;
+	font-weight : 100;
+	src : url(media/fonts/NanumBarunGothic.eot);
+	src:  url(media/fonts/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+		    url(media/fonts/NanumBarunGothic.woff) format('woff');
+}
+
+*											  { padding: 0; margin: 0; font-family: 'ngb',Nanum Gothic, arial, serif, sans-serif}
+html										{ font-size: 10px}
+ul, ol, li								     { list-style: none; }
+caption, legend 				     { display: none; }
+a										     { text-decoration: none;}
+a:hover, a:focus 				     { text-decoration: underline;}
+em											{ font-style: normal}

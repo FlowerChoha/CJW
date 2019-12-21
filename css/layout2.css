@@ -1,0 +1,20 @@
+.header				{ width: 100%; }
+.headerTop          { height: 67px; border-bottom: 1px solid #cfcfcf }
+.header				{ height: 120px;}
+
+.inner              { width: 1267px; height: 67px; /*background: yellow;*/ margin: 0 auto;position: relative;  }
+.inner form         { display: inline;}
+.it					{ width: 186px; height: 26px; border: none; border-bottom:  2px solid #d5d5d5; margin: 0 auto; margin-top: 23px;}
+.inner form button      { width: 17px; height: 26px; border: none; background: #fff; position: absolute; top: 23px; left:168px;}
+.inner form button img       { width: 17px; height: 26px;}
+.userMenu               { float: right; margin-top: 23px;}
+.userMenu>a			 { font-family: SpoqaHanSans; font-size: 1.6rem; float: left; margin-right: 15px; color: #909090;}
+.userMenu>a:hover    { color: #02b5d6;}
+
+.headerBot               { margin: 0 auto; width: 1276px;}
+.headerBot h1            { margin-top: 26px; display: inline;}
+.headerBot h1 img        { margin-top: 26px; width: 185px; height: 66px;}
+.gnb                     { float: right; width: 960px; height: 22px; margin-top: 24px;}
+.gnb li                  { float: left; margin-left: 55px; margin-top: 26px;}
+.gnb li a                { font-size: 2.2rem; font-family: SpoqaHanSans; color: #343434;}
+.gnb li a:hover          { color: #02b5d6;}
